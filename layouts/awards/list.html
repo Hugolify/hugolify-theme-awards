@@ -1,0 +1,9 @@
+{{ define "hero"}}
+  {{- partial "awards/hero.html" . -}}
+{{ end }}
+
+{{ define "main" }}
+  {{ partial "awards/schema.html" . }}
+  {{ partial "awards/blocks.html" . }}
+  {{ partial "awards/container.html" . }}
+{{ end }}

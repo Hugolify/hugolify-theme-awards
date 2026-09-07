@@ -1,0 +1,13 @@
+awards:
+  all: All awards
+  count:
+    one: 1 award
+    other: '{{ .Count }} awards'
+  discover: Discover award
+  latest: Latest awards
+  latest_section: Our {{ .Section }}’s latest awards
+  more: Discover more awards
+  more_description: More information on the award
+  title:
+    one: Award
+    other: Awards

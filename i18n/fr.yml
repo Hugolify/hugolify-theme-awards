@@ -1,0 +1,13 @@
+awards:
+  all: Toutes les distinctions
+  count:
+    one: 1 distinction
+    other: '{{ .Count }} distinctions'
+  discover: Découvrir la distinction
+  latest: Dernières distinctions
+  latest_section: Dernières distinctions en {{ .Section }}
+  more: Découvrir plus de distinctions
+  more_description: Plus d’information sur la distinction
+  title:
+    one: Distinction
+    other: Distinctions
