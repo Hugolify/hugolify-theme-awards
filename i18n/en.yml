@@ -8,6 +8,9 @@ awards:
   latest_section: Our {{ .Section }}’s latest awards
   more: Discover more awards
   more_description: More information on the award
+  related:
+    one: Related award
+    other: Related awards
   title:
     one: Award
     other: Awards
