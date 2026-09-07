@@ -1,0 +1,9 @@
+/* Do not edit directly, this file was auto-generated. */
+
+/* awards.css */
+@layer tokens {
+  :root {
+    --awards-min-width: var(--max-width-item);
+    --awards-nav-margin-block-start: var(--spacing-fluid-md);
+  }
+}

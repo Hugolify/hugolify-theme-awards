@@ -1,0 +1,12 @@
+/* css/modules/awards.css — hugolify-theme-awards entry point */
+
+/* Tokens */
+@import '../tokens/awards.css';
+
+/* Components */
+@import '../components/award.css';
+@import '../components/awards.css';
+
+/* Pages */
+@import '../pages/award.css';
+@import '../pages/awards.css';

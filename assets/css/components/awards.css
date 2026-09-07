@@ -1,0 +1,12 @@
+/* components/awards.css */
+/*
+ * .awards remaps the full --items-* API onto its --awards-* tokens, so any
+ * value can be tuned from awards.json without touching this file.
+ * Usage: <article class="items awards">
+ */
+@layer components {
+  .awards {
+    --items-min-width: var(--awards-min-width);
+    --items-nav-margin-block-start: var(--awards-nav-margin-block-start);
+  }
+}
