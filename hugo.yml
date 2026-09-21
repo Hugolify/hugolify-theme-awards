@@ -37,6 +37,11 @@ params:
   
   # Image
   awards:
+    image:
+      # Award artwork is mostly logos: filling the thumbnail box would cut into the mark, so images
+      # are resized to the sizes below and contained inside the box with bleed around.
+      # Set to true (or to a fill anchor, e.g. smart) to crop instead.
+      crop: false
     thumbnail:
       desktop: '416x416'
       desktop_large: '636x636'
