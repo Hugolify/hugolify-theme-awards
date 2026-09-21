@@ -33,6 +33,7 @@ params:
           lucide: award
           material_icons: trophy
           material_symbols: trophy
+        path: "{{slug}}"
   
   # Image
   awards:
