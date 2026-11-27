@@ -29,6 +29,7 @@ params:
             value: false
         icon:
           bootstrap_icons: award
+          hugeicons: Award01
           iconoir: medal
           lucide: award
           material_icons: trophy
